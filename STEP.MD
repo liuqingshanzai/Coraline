@@ -21,4 +21,7 @@ git checkout step01 //切换到step01分支
 git diff main //和主分支对比
 git merge step01 //合并分支
 git branch -d step01 //删除分支
+git push origin --delete step01 //删除远程分支
+git push --set-upstream origin dev //push都某个远程分支
+origin：远程的意思
 ```
