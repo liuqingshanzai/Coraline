@@ -25,3 +25,8 @@ git push origin --delete step01 //删除远程分支
 git push --set-upstream origin dev //push都某个远程分支
 origin：远程的意思
 ```
+
+# 计划
+
+0. 《霍比特人》第一章
+1. 《库克》开头
