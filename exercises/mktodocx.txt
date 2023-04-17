@@ -1,1 +1,3 @@
-pandoc --reference-doc=D:/__Write/myStory/docs/template.docx ./test.md -o ./docs/test.docx
+pandoc --reference-doc=D:/__Write/myStory/docs/template.docx ./"Cooker'sAdventure.MD" -o ./docs/"Cooker'sAdventure.docx"
+pandoc "Cooker'sAdventure.MD" -o ./docs/"Cooker'sAdventure.pdf"
+pdflatex: security risk: running with elevated privileges
