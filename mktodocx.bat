@@ -1,0 +1,1 @@
+pandoc --reference-doc=D:/__Write/myStory/docs/template.docx ./exercises/"Cooker'sAdventure.MD" -o ./exercises/docs/"Cooker'sAdventure.docx"
