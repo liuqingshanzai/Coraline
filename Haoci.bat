@@ -1,0 +1,1 @@
+pandoc --reference-doc=D:/__Write/myStory/docs/template.docx ./exercises/好词好句.MD -o ./exercises/docs/好词好句.docx
